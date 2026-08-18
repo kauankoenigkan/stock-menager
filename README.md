@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 📦 Stock Manager
 
 <p align="left">
