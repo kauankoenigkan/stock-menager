@@ -34,12 +34,12 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) e a [Angular CLI](https://
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+   git clone [https://github.com/kauankoenigkan/stock-menager.git](https://github.com/kauankoenigkan/stock-menager.git)
 
    Entre na pasta do projeto:
 
 ```Bash
-cd nome-do-projeto
+cd stock-menager
 ```
 
 2. Instale as dependências:
