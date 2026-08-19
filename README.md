@@ -33,10 +33,10 @@
 Certifique-se de ter o [Node.js](https://nodejs.org/) e a [Angular CLI](https://angular.dev/cli) instalados na sua máquina.
 
 1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/kauankoenigkan/stock-menager.git](https://github.com/kauankoenigkan/stock-menager.git)
+```bash
+git clone [https://github.com/kauankoenigkan/stock-menager.git](https://github.com/kauankoenigkan/stock-menager.git)
 
-   Entre na pasta do projeto:
+Entre na pasta do projeto:
 
 ```Bash
 cd stock-menager
